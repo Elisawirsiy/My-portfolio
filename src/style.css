@@ -1,0 +1,18 @@
+:root {
+  --primary-color: #f5f1fe;
+  --secondary-color: #3d0d20;
+}
+h1,
+h3 {
+  font-family: "PT Sans", sans-serif;
+  text-align: center;
+  color: var(--secondary-color);
+}
+p {
+  font-family: "PT Mono", monospace;
+  text-align: center;
+  background-color: var(--primary-color);
+}
+img {
+  width: 400px;
+}
