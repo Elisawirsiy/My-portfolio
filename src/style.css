@@ -42,7 +42,7 @@ img {
 .header {
   background: var(--primary-color);
   text-align: center;
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 .header p {
   color: #272142;
@@ -52,7 +52,7 @@ img {
 }
 
 .content-container {
-  padding: 160px 20px;
+  padding: 80px 20px;
 }
 .content-container h1 {
   font-size: 64px;
